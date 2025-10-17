@@ -204,6 +204,10 @@ GROUP BY shift
 
 This project serves as a comprehensive introduction to SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
 ## Author - Sivateja
+Data & Analytics Engineer
+Turning distributed data into actionable insights across AWS, Azure, and GCP
+Skilled in SQL, Python, Spark, Databricks, Snowflake, dbt, and Airflow
+Passionate about building scalable, reliable data architectures that bridge engineering and business
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
